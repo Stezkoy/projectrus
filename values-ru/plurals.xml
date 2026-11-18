@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">Перемотать на %d секунду вперёд</item>
+        <item quantity="few">Перемотать на %d секунды вперёд</item>
+        <item quantity="many">Перемотать на %d секунд вперёд</item>
+        <item quantity="other">Перемотать на %d секунды вперёд</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">Перемотать на %d секунду назад</item>
+        <item quantity="few">Перемотать на %d секунды назад</item>
+        <item quantity="many">Перемотать на %d секунд назад</item>
+        <item quantity="other">Перемотать на %d секунды назад</item>
+    </plurals>
+    <plurals name="grid_layout_rows">
+        <item quantity="one">%d строка</item>
+        <item quantity="few">%d строки</item>
+        <item quantity="many">%d строк</item>
+        <item quantity="other">%d строк</item>
+    </plurals>
+    <plurals name="grid_settings_incompatible_widget_summary">
+        <item quantity="one">%1$d %2$s виджет</item>
+        <item quantity="few">%1$d %2$s виджета</item>
+        <item quantity="many">%1$d %2$s виджетов</item>
+        <item quantity="other">%1$d %2$s виджеты</item>
+    </plurals>
+    <plurals name="jingle_repos_dialog_clear_body">
+        <item quantity="one">Это удалит джингл у %d игры и сотрёт управляемый Cocoon аудиофайл.</item>
+        <item quantity="few">Это удалит джинглы у %d игр и сотрёт управляемые Cocoon аудиофайлы.</item>
+        <item quantity="many">Это удалит джинглы у %d игр и сотрёт управляемые Cocoon аудиофайлы.</item>
+        <item quantity="other">Это удалит джинглы у %d игр и сотрёт управляемые Cocoon аудиофайлы.</item>
+    </plurals>
+    <plurals name="jingle_repos_platform_defaults_count">
+        <item quantity="one">%d платформа</item>
+        <item quantity="few">%d платформы</item>
+        <item quantity="many">%d платформ</item>
+        <item quantity="other">%d платформ</item>
+    </plurals>
+    <plurals name="library_discovery_aggregate_games_title">
+        <item quantity="one">Найдена %1$d новая игра</item>
+        <item quantity="few">Найдено %1$d новые игры</item>
+        <item quantity="many">Найдено %1$d новых игр</item>
+        <item quantity="other">Найдено %1$d новых игр</item>
+    </plurals>
+    <plurals name="library_discovery_aggregate_platforms_title">
+        <item quantity="one">Найдена %1$d платформа</item>
+        <item quantity="few">Найдено %1$d платформы</item>
+        <item quantity="many">Найдено %1$d платформ</item>
+        <item quantity="other">Найдено %1$d платформ</item>
+    </plurals>
+    <plurals name="library_discovery_new_games_title">
+        <item quantity="one">Найдена %1$d новая игра %2$s</item>
+        <item quantity="few">Найдено %1$d новые игры %2$s</item>
+        <item quantity="many">Найдено %1$d новых игр %2$s</item>
+        <item quantity="other">Найдено %1$d новых игр %2$s</item>
+    </plurals>
+    <plurals name="library_discovery_review_games">
+        <item quantity="one">%1$d новая игра</item>
+        <item quantity="few">%1$d новые игры</item>
+        <item quantity="many">%1$d новых игр</item>
+        <item quantity="other">%1$d новых игр</item>
+    </plurals>
+    <plurals name="library_discovery_review_platform_folders">
+        <item quantity="one">Новая папка платформы</item>
+        <item quantity="few">%1$d новые папки платформ</item>
+        <item quantity="many">%1$d новых папок платформ</item>
+        <item quantity="other">%1$d новых папок платформ</item>
+    </plurals>
+    <plurals name="log_transfer_sessions">
+        <item quantity="one">%d сессия</item>
+        <item quantity="few">%d сессии</item>
+        <item quantity="many">%d сессий</item>
+        <item quantity="other">%d сессий</item>
+    </plurals>
+    <plurals name="random_smart_folder_game_count">
+        <item quantity="one">%1$d игра</item>
+        <item quantity="few">%1$d игры</item>
+        <item quantity="many">%1$d игр</item>
+        <item quantity="other">%1$d игр</item>
+    </plurals>
+    <plurals name="restore_sections_failed">
+        <item quantity="one">раздел не восстановлен</item>
+        <item quantity="few">раздела не восстановлено</item>
+        <item quantity="many">разделов не восстановлено</item>
+        <item quantity="other">разделы не восстановлены</item>
+    </plurals>
+    <plurals name="restore_sections_restored">
+        <item quantity="one">раздел восстановлен</item>
+        <item quantity="few">раздела восстановлено</item>
+        <item quantity="many">разделов восстановлено</item>
+        <item quantity="other">разделы восстановлены</item>
+    </plurals>
+    <plurals name="scrape_value_media_type_count">
+        <item quantity="one">%d тип</item>
+        <item quantity="few">%d типа</item>
+        <item quantity="many">%d типов</item>
+        <item quantity="other">%d типов</item>
+    </plurals>
+    <plurals name="scrape_value_metadata_type_count">
+        <item quantity="one">%d тип</item>
+        <item quantity="few">%d типа</item>
+        <item quantity="many">%d типов</item>
+        <item quantity="other">%d типов</item>
+    </plurals>
+    <plurals name="scrape_value_platform_count">
+        <item quantity="one">%d платформа</item>
+        <item quantity="few">%d платформы</item>
+        <item quantity="many">%d платформ</item>
+        <item quantity="other">%d платформ</item>
+    </plurals>
+    <plurals name="scrape_value_targeted_games">
+        <item quantity="one">%d игра</item>
+        <item quantity="few">%d игры</item>
+        <item quantity="many">%d игр</item>
+        <item quantity="other">%d игр</item>
+    </plurals>
+</resources>
+
+    <plurals name="jingle_repos_toast_cleared">
+        <item quantity="one">Убраны джинглы у %d игры</item>
+        <item quantity="few">Убраны джинглы у %d игр</item>
+        <item quantity="many">Убраны джинглы у %d игр</item>
+        <item quantity="other">Убраны джинглы у %d игр</item>
+    </plurals>
