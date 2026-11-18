@@ -10,7 +10,7 @@
 
 | Поле | Значение |
 |---|---|
-| Версия | 3.11.2 |
-| APK | cocon-311.2-rus.apk |
+| Версия | 3.11.3 |
+| APK | cocon-311.3-rus.apk |
 | Размер | 221133675 |
-| SHA-256 | 80e4c396b700b91b85b9ee850cdcb361515cb359aeeeb6111afc05c519c7c20f |
+| SHA-256 | ba8c33a2daa84965c510fb35ca32bd074ff1ca8fe8ad1dbc11cae9bc2af1719c |
