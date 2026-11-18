@@ -13,4 +13,4 @@
 | Версия | 3.11.3 |
 | APK | cocon-311.3-rus.apk |
 | Размер | 221133675 |
-| SHA-256 | ba8c33a2daa84965c510fb35ca32bd074ff1ca8fe8ad1dbc11cae9bc2af1719c |
+| SHA-256 | aaaeaac373ec989291a218673e9c176bd7995402a3a4e6b8dcab1cffa5eefc9f |
