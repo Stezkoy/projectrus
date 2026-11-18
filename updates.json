@@ -2,13 +2,13 @@
   "schema": 1,
   "releases": [
     {
-      "version": "3.11.4",
-      "apk": "https://github.com/Stezkoy/projectrus/releases/download/3.11.4/cocon-311.4-rus.apk",
+      "version": "3.11.5",
+      "apk": "https://github.com/Stezkoy/projectrus/releases/download/3.11.5/cocon-311.5-rus.apk",
       "size": 221133675,
-      "sha256": "9ad5bcd93cc8239887f788219d204421f05588ddd6537296ada25cc7508cbbd4",
+      "sha256": "076b3b2c0db261e9745ee6a97d8048a787fb5c6f225f98a7825bae3c8a7ecece",
       "minSdk": 24,
       "rollout": 100,
-      "description": "Cocoon 3.11.4 — русская локализация, шрифт Inter"
+      "description": "Cocoon 3.11.5 — русская локализация, шрифт Inter"
     }
   ]
 }
